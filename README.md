@@ -37,7 +37,11 @@ Get your free API key from [Google AI Studio](https://aistudio.google.com).
 
 ### 4. Run
 ```bash
+# Terminal version
 python triage.py
+
+# Or start the Web Interface (with Voice support!)
+python triage_web.py
 ```
 
 ## Usage
