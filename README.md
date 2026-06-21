@@ -54,3 +54,21 @@ This is not a substitute for professional medical advice. Always consult a real 
 
 ## Author
 Ahmad – CS Sophomore @ UET Peshawar
+
+## Features
+- Bilingual support (English & Urdu)
+- 3-tier urgency classification
+- Designed for low-resource healthcare settings in Pakistan
+- Lightweight — runs entirely in terminal
+
+## Future Plans
+- Web/mobile interface
+- Voice input support
+- Integration with nearby clinic locator
+- Expand to more Pakistani regional languages (Pashto, Sindhi)
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first.
+
+## License
+MIT
