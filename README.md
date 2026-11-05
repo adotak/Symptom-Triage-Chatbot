@@ -40,8 +40,13 @@ Get your free API key from [Google AI Studio](https://aistudio.google.com).
 # Terminal version
 python triage.py
 
-# Or start the Web Interface (with Voice support!)
+# Or start the Web Interface (with voice input!)
 python triage_web.py
+```
+
+Run the helper tests with:
+```bash
+python -m unittest -v test_triage_helpers.py
 ```
 
 ## Usage
@@ -63,7 +68,9 @@ Ahmad – CS Sophomore @ UET Peshawar
 - Bilingual support (English & Urdu)
 - 3-tier urgency classification
 - Designed for low-resource healthcare settings in Pakistan
-- Lightweight — runs entirely in terminal
+- Terminal and Gradio web interfaces
+- Voice input support in the web interface
+- Safe handling for empty or temporarily unavailable requests
 
 ## Future Plans
 - Web/mobile interface
